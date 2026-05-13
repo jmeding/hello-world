@@ -21,23 +21,19 @@ jaime & nicholae
 ## Session Agendas
 
 Each session will roughly follow this agenda
-
- -  Introduction
-    
-
+1.  Introduction
+   
  -   What do you want to take away from today’s session?
 
  -   How do you understand these terms and what are the references you have learned them from?
     
 
- -  Primary document discussion and curiosities
-    
+2. Primary document discussion and curiosities
 
  -   What is the narrative this document provides?
     
  -   Feel free use to the following questions to generate more questions:
     
-
 	 - Where was this document made?
 	 - Who was this document made for?
 	 - Who is the author(s)? What is their place in the university system?
